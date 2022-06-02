@@ -5,6 +5,7 @@
 
 
 import streamlit as st
+st.text("Brian Benjamin")
 st.title("Trapezium Calculator")
 base_1 = int(st.number_input("base 1 is:"))
 base_2 = int(st.number_input("base 2 is:"))
